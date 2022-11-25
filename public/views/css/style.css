@@ -1,0 +1,55 @@
+.caixa {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+.titulo {
+  color: rgba(56, 56, 240, 0.992);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table,
+th,
+td {
+  border: 2px solid rgb(44, 42, 42);
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(56, 56, 240, 0.992);
+  size: 16px;
+}
+
+a:hover {
+  color: rgb(9, 9, 87);
+}
+
+.pagination {
+  display: block;
+}
+
+.pagination {
+  display: block;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.btn {
+  color: #fff;
+  padding: 10px;
+  margin: 5px;
+  background: rgb(44, 42, 42);
+}
+
+.btn:hover {
+  color: rgba(56, 56, 240, 0.992);
+}
+
+.erro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

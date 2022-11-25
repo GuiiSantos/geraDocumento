@@ -1,0 +1,25 @@
+{
+  "name": "guilherme/geradordocumentos",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Guilherme",
+      "email": "guisantosdeveloper@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "Source/Config.php"
+    ]
+  },
+  "require": {
+    "dompdf/dompdf": "2.0.1",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
