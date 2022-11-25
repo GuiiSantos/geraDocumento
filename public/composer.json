@@ -21,5 +21,11 @@
     "dompdf/dompdf": "2.0.1",
     "ext-curl": "*",
     "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "scripts": {
+    "test": "vendor\\bin\\phpunit"
   }
 }
