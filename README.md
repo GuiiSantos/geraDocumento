@@ -1,5 +1,4 @@
 # 📌 Gerador de documento em PDF
-### Teste prático para vaga de Analista de desenvolvimento
 
 ## Conteúdos
 
