@@ -9,7 +9,7 @@
 
 
 ## Como iniciar o Projeto
-- utilize esse comando abaixo na raiz do projeto
+- utilize esse comando abaixo na raiz do projeto.
 ```
 docker-compose up
 ```
